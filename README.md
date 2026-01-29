@@ -3,13 +3,13 @@ This repository provides the source code used to generate all analyses and figur
 
 The scripts reproduce the complete analytical workflow, including data processing, model construction, statistical analyses, and visualization of final results.
 
-Computational Environment
+## Computational Environment
 
 All analyses were conducted using the following software versions:
 
-Python: 3.11.5
+**Python: 3.11.5**
 
-R: 4.3.1
+**R: 4.3.1**
 
 Detailed package dependencies and execution instructions are provided within the respective analysis scripts.
 
